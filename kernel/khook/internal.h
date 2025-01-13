@@ -2,7 +2,6 @@
 
 #include <linux/mm.h>
 #include <linux/vmalloc.h>
-#include <linux/kallsyms.h>
 #include <linux/stop_machine.h>
 #include <linux/delay.h>
 #include <linux/version.h>

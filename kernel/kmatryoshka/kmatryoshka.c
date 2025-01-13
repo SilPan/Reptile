@@ -8,6 +8,8 @@
 #endif
 
 #include "encrypt.h"
+#include "my_kallsyms.h"
+
 
 #define SYS_INIT_MODULE                                 \
 	({                                              \
